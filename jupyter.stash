@@ -1,0 +1,107 @@
+# <#>Jupyter / Jupyter Lab<> SpeedSheet
+<b>What you need, faster.<>
+
+
+# Summary
+
+### Official Site
+<l>https://jupyter.org/<>
+
+
+
+# Install
+
+
+### Install JupyterLabs - With Conda
+
+<cb>conda install -c conda-forge jupyterlab<>
+
+
+
+### Install JupyterLabs - With Pip
+
+<cb>pip install jupyterlab<>
+
+
+### Install Jupyter Notebooks - With Conda
+
+<cb>conda install -c conda-forge notebook<>
+
+
+
+### Install Jupyter Notebooks - With Pip
+
+<cb>pip install notebook<>
+
+
+
+# Command Line
+
+
+
+### Run - JupyterLab
+
+<cb>jupyter-lab<>
+
+Or
+
+<cb>cd "$jupyter_home_dir"
+
+. bin/activate
+
+venv/bin/jupyter lab<>
+
+
+
+### Run - Jupyter notebook
+
+<cb>jupyter notebook<>
+
+
+
+### URL - JupyterLab
+
+Link:
+<l>http://localhost:8888/lab<>
+@
+@ Jupyter Lab
+
+
+
+### Link - Jupyter Notebook
+
+Link:
+<l>http://localhost:8888/tree<>
+
+
+
+# Terms
+
+
+
+### Jupyter
+A project with the goals of creating interactive programming environments.
+
+Gets its name from the programming languages it supports: Julia, Python, R.
+
+
+
+### JupyterLab
+The new interface for Jupyter notebooks.
+
+This interactive environment allows you to run multiple Jupyter notebooks as separate tabs.
+@
+@ jupyter-lab
+
+
+
+### Jupyter Notebook
+An interactive web based environment for running and documenting a Python program.
+
+The classic interface.
+
+
+### IPython
+A command line text based interactive environment for running Python programs.
+
+Jupyter was spun off from IPython in 2014.
