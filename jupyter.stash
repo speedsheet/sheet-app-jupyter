@@ -1,12 +1,26 @@
 # <#>Jupyter / Jupyter Lab<> SpeedSheet
-<b>Find what you need, faster.<>
+<b>Find it faster.<>
 
-# What is it?
-
-It is a fancy interactive interface to python with some bells and whistles.
+This is an interactive <b>Jupyter<> / <b>Jupiter Lab<> cheat sheet. Jupyter Labs is an interactive web environment for running and documenting Python programs. Use the search to instantly get answers.
 
 
-# Summary
+<table><col><b>Basics<>
+
+<*><l "?q=install-only">Install<>
+<l "?q=cli">Command Line<><>
+
+<*><l "?q=online-docs-only">Online Document<>
+<l "?q=terms">Terms<><><><col>	<><col><b>Related Sheets<>
+
+<*><l "python">Python<>
+<l "matplotlib">matplotlib<>
+<l "numpy">Numpy<><><><>
+
+
+# Online Documents
+@
+@ online-docs-only, docs-only
+
 
 ### Official Site
 <l>https://jupyter.org/<>
@@ -14,6 +28,8 @@ It is a fancy interactive interface to python with some bells and whistles.
 
 
 # Install
+@
+@ install-only
 
 
 ### Install JupyterLabs - With Conda
@@ -39,7 +55,9 @@ It is a fancy interactive interface to python with some bells and whistles.
 
 
 
-# Command Line
+# Command-line
+@
+@ command-line-only, commandline-only, cli-only
 
 
 
@@ -80,7 +98,8 @@ Link:
 
 
 # Terms
-
+@
+@ terms-only
 
 
 ### Jupyter
